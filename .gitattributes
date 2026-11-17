@@ -1,0 +1,30 @@
+# Store text files with LF line endings and check them out with LF on every OS
+* text=auto eol=lf
+
+# Windows scripts need CRLF to run correctly
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.ps1  text eol=crlf
+
+# Binary files: never change line endings or diff as text
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.pdf  binary
+*.mp4  binary
+*.mov  binary
+*.mp3  binary
+*.wav  binary
+*.zip  binary
+*.woff binary
+*.woff2 binary
+*.ttf  binary
+*.otf  binary
+*.psd  binary
+*.ai   binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
