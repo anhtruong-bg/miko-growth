@@ -1,76 +1,76 @@
-# Họp: Miko Marketing Launch Plan II
+# Meeting: Miko Marketing Launch Plan II
 
-- **Ngày:** 16/11/2026
-- **Thành phần:** Ngọc Anh, Michael, Tiến, Uyên
-- **Tài liệu gốc:** [transcript.md](transcript.md) (transcript đầy đủ + ghi chú Gemini)
+- **Date:** Nov 16, 2026
+- **Participants:** Ngoc Anh, Michael, Tien, Uyên
+- **Source:** [transcript.md](transcript.md) (full transcript + Gemini notes) · Vietnamese: [summary.vi.md](summary.vi.md)
 
-## 1. Chiến lược marketing online
+## 1. Online marketing strategy
 
-**TA:** nhân viên tech và bán tech. Ba pain point:
-- Làm nhiều sản phẩm nhưng không ai chịu trả tiền
-- Giỏi kỹ thuật nhưng thiếu tư duy kinh doanh
-- Sợ bị thay thế trong sự nghiệp
+**Target audience:** tech and semi-tech employees. Three pain points:
+- They build many products, but nobody is willing to pay for them
+- Strong technical skills, but weak on the business side
+- Fear of being replaced in their careers
 
-**Ba kênh tiếp cận** (chưa tính đại học và sự kiện offline):
-1. **Fanpage Dr. Michael:** cần đăng bài lại vì đã gần 1 tháng không đăng. Có 2 series, series 1 gồm 4–5 bài về "điểm mù" của dân tech khi khởi nghiệp. Cần **kết hợp cả nội dung tích cực** (cơ hội, lợi ích), không chỉ nói về sai lầm.
-2. **Fanpage Miko:** làm series dựa trên 33 task. Concept đầu tiên đi qua 7 task đầu, từ ý tưởng đến prototype. Content pillars nằm trong repo **Miko Marketing**.
-3. **Cộng đồng:** hợp tác với admin các group Facebook lớn.
+**Three channels** (universities and offline events not included for now):
+1. **Dr. Michael fan page:** needs to be brought back to life after nearly a month without posts. Two series; series 1 is 4–5 posts on the "blind spots" tech people hit when starting a business. **Mix in positive content too** (opportunities and upside), not only mistakes.
+2. **Miko fan page:** a series built on the 33 tasks. The first concept covers the first 7 tasks, from idea to prototype. Content pillars live in the **Miko Marketing** repo.
+3. **Communities:** partner with admins of large Facebook groups.
 
-## 2. Quyết định
+## 2. Decisions
 
-- **Dồn toàn lực cho Miko Challenge** vì nguồn lực có hạn. Sự kiện offline ghép co-founder để sau, dùng dữ liệu từ challenge để ghép.
-- **Bắt đầu bằng mô hình Miko Scholarship**, sau đó thêm ghép co-founder như một quyền lợi thường xuyên.
-- **Tách repo:** việc tạo campaign nằm ở **Miko Marketing**. Mọi việc liên quan đến launch nằm ở **Miko Growth**.
+- **Go all in on the Miko Challenge** because resources are limited. The offline co-founder matching event comes later and will use data from the challenge.
+- **Start with the Miko Scholarship model**, then add co-founder matching as a regular benefit.
+- **Repo split:** campaign creation lives in **Miko Marketing**. Everything related to the launch lives in **Miko Growth**.
 
 ## 3. Miko Challenge
 
-| Thời điểm | Việc cần làm |
+| When | What |
 |---|---|
-| Đầu tháng 12 | Công bố, mọi người làm 7 task miễn phí |
-| Giữa tháng 12 | Chọn top team (ví dụ top 5) để cấp quyền dùng miễn phí đến task 20 |
-| Khoảng 10 ngày trước sự kiện | Chọn các team được mời dự sự kiện |
-| Cuối năm | Sự kiện: các team pitch, có cơ hội vào venture builder |
+| Early December | Announce; anyone can do the 7 free tasks |
+| Mid-December | Pick the top teams (e.g. top 5) to get free access up to task 20 |
+| ~10 days before the event | Pick the teams invited to the event |
+| End of year | Event: teams pitch, with a chance to join the venture builder |
 
-- **Quyền lợi cho admin cộng đồng:** làm speaker hoặc giám khảo, nhận tài khoản miễn phí để trao cho team trong cộng đồng (tối thiểu 1 team mỗi cộng đồng).
-- **Mục tiêu:** khoảng **100 người đăng ký** để chọn top 3. Dr. Michael một mình không đủ lượt tiếp cận, nên phải đi qua các cộng đồng.
-- Nếu proof of concept thành công thì tổ chức lặp lại.
+- **Benefits for community admins:** join as speaker or judge, and receive free accounts to give to teams in their community (at least 1 team per community).
+- **Target:** about **100 signups** to pick a top 3. Dr. Michael alone doesn't have enough reach, so we go through communities.
+- If the proof of concept works, run it again.
 
-## 4. Cộng đồng và đối tác
+## 4. Communities and partners
 
-- **"Looking for Co-founder"** (khoảng 33k thành viên): có sự kiện offline hàng tháng hoặc hàng quý. Hợp cho giai đoạn ghép co-founder sau này.
-- **"Vietnam Build in Public"** (khoảng 101k thành viên): rất hợp vì thành viên chia sẻ quá trình build, tạo lan truyền tự nhiên.
-- **Cộng đồng Codex** (Sơn, An ở Joy Factory): Michael sẽ liên hệ, nhưng lo cộng đồng nhỏ (khoảng 500 người).
-- **Keen:** nay làm ở Microsoft, có vẻ không còn nhiều hứng thú. Michael sẽ follow up.
-- **Affiliate** (giảm 20% cho người mua, hoa hồng 10% cho người giới thiệu): để sau.
-- **Influencer startup:** làm sau lần thử đầu tiên.
-- Nên nhắm người trẻ, vì người trên 40 tuổi từng phản hồi Miko "giống lớp học".
-- **Thông điệp:** cho thấy Miko giúp người dùng build thật, không chỉ là bán hàng.
+- **"Looking for Co-founder"** (~33k members): holds monthly or quarterly offline events. Good fit for the later co-founder matching phase.
+- **"Vietnam Build in Public"** (~101k members): strong fit because members share what they build, which spreads Miko organically.
+- **Codex community** (Son and An at Joy Factory): Michael will reach out, but is concerned the community is small (~500 people, always the same faces).
+- **Keen:** now works at Microsoft and seems less interested. Michael will follow up.
+- **Affiliate model** (20% off for buyers, 10% commission for referrers): later, not now.
+- **Startup influencers:** after the first test.
+- Target younger people: people over 40 have said Miko "feels like a school class".
+- **Messaging:** show that Miko helps people actually build, not just that we're selling a product.
 
-## 5. Việc cần làm
+## 5. Action items
 
-**Ngọc Anh**
-- [ ] Gửi danh sách cộng đồng tech để tiếp cận
-- [ ] Hoàn thiện series content cho Dr. Michael và Miko để cả nhóm review
-- [ ] Đổi tên fanpage Miko (khoảng thứ Tư), chuẩn bị bài cho tuần sau
-- [x] Upload transcript buổi họp lên repo
+**Ngoc Anh**
+- [ ] Share the list of tech communities for outreach
+- [ ] Finish the content series for Dr. Michael and Miko for team review
+- [ ] Rename the Miko fan page (around Wednesday) and prepare posts for next week
+- [x] Upload the meeting transcript to the repo
 
-**Tiến**
-- [ ] Liên hệ admin các cộng đồng để đề xuất scholarship
-- [ ] Đặt lịch họp follow-up thứ Tư
-- [ ] Tạo lịch, countdown, deadline và người phụ trách trong repo Miko Growth
-- [ ] Review website với Ngọc Anh, hoàn thành trước cuối tuần
+**Tien**
+- [ ] Contact community admins to propose the scholarship
+- [ ] Schedule the Wednesday follow-up meeting
+- [ ] Set up the calendar, countdown, deadlines and owners in the Miko Growth repo
+- [ ] Review the website with Ngoc Anh; done by end of week
 
 **Michael**
-- [ ] Liên hệ Sơn và An (Codex ambassadors)
+- [ ] Contact Son and An (Codex ambassadors)
 
-**Cả nhóm**
-- [ ] Đưa website lên, dùng icon Miko mới
-- [ ] Video teaser chỉ hiện chữ "Miko", không tiết lộ đây là AI co-founder
+**Team**
+- [ ] Get the website live with the new Miko icon
+- [ ] Teaser video showing only the name "Miko", without revealing it's an AI co-founder
 
-**Họp tiếp theo:** thứ Tư, 13:00–14:00.
+**Next meeting:** Wednesday, 1:00–2:00 PM.
 
-## Chỗ ghi chú Gemini chưa khớp với transcript
+## Where Gemini's notes differ from the transcript
 
-- Gemini ghi "Son and Keen from Joy Factory". Transcript nói **Sơn và An** ở Joy Factory, còn Keen là người khác, nay làm ở Microsoft.
-- Gemini ghi challenge chạy "December to January". Transcript có chỗ nói "mid-January", nhưng sự kiện chung kết lại nằm khoảng cuối năm. **Cần chốt lại mốc này.**
-- Tên series "fixbook" hay "ThickBook" có thể là lỗi nhận giọng nói. Có lẽ ý là "Playbook".
+- Gemini wrote "Son and Keen from Joy Factory". The transcript says **Son and An** at Joy Factory; Keen is someone else, now at Microsoft.
+- Gemini wrote the challenge runs "December to January". The transcript mentions "mid-January" once, but places the final event around the end of the year. **This date needs to be confirmed.**
+- The series name "fixbook" / "ThickBook" is likely a speech-recognition error, probably meaning "Playbook".

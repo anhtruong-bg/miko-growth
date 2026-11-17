@@ -2,7 +2,7 @@
 
 - **Date:** Nov 16, 2026
 - **Participants:** Ngoc Anh Truong, Michael Liebmann, Tien Nguyen, Uyên Nguyễn
-- **Summary (Vietnamese):** [summary.md](summary.md)
+- **Summary:** [summary.md](summary.md) (EN) · [summary.vi.md](summary.vi.md) (VI)
 
 > Auto-generated transcript; timestamps and some names may be inaccurate (speech recognition).
 
