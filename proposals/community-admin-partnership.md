@@ -1,18 +1,35 @@
 # Proposal: Community admin partner program for Miko Challenge
 
-- **Drafted:** 2026-11-18
+- **Drafted:** 2026-11-18 · **Updated:** 2026-11-19
 - **Outreach owners:** per group, filled in by the team in [section 7](#7-community-list-and-outreach-assignments)
-- **Related:** [Launch Plan II meeting, 2026-11-16](../meetings/2026-11-16-launch-plan-ii/summary.md)
-- **Status:** Draft, waiting for team review
+- **Related:** [Launch Plan II meeting, 2026-11-16](../meetings/2026-11-16-launch-plan-ii/summary.md) · [Launch Plan III meeting, 2026-11-19](../meetings/2026-11-19-launch-plan-iii/summary.md)
+- **Status:** Draft, updated after the Nov 19 meeting, waiting for team review
 - **Tiếng Việt:** [community-admin-partnership.vi.md](community-admin-partnership.vi.md)
+
+> **Nov 19 update: two-stage launch.** The first launch goes out **without community admins**. This program now covers the **second stage (amplified launch)**, about **3–4 weeks after our first campaign**. We start with a **pilot in one small group (Future Builders Việt Nam)**, then move from small to big groups only if the pilot works. See [section 4](#4-timeline) and [section 7](#7-community-list-and-outreach-assignments).
 
 ## 1. Background
 
 Miko Challenge aims for about **100 sign-ups** so we can pick the top teams. Dr. Michael's fanpage does not reach enough people on its own, so we need to go through the admins of large tech and startup Facebook groups.
 
+**But not on day one.** If we approach admins as a no-name with no results, (1) they may not reply because they don't know who we are, and (2) any price they quote will be higher, because they will see themselves as the main reason it works. So we first run a **light launch on our own** (email, Facebook contacts who asked to try Miko, existing Miko sign-ups, testers) to collect our own sign-ups and learnings. We then come to admins with real numbers and negotiate from a stronger position.
+
 These admins may not need Miko themselves. So instead of offering a ready-made benefits package, the program **lets admins use Miko for real first**, then agrees a partnership tier based on how satisfied they are. An admin who has seen the value will recommend Miko to members naturally, without it feeling like an ad.
 
 ## 2. How it works
+
+### Step 0: Pilot with Future Builders Việt Nam (small group first)
+
+Before the steps below, we test the model in **one small group**. Mistakes are cheaper there, like practising with a small job interview before the big one.
+
+- **Who:** Future Builders Việt Nam (Unikorn, ~1.4k members). Ngọc Anh is already in touch; the contact met Michael at an event where Michael spoke. He wants to bring value to members who have built products but can't launch them, so he **likely won't ask for money**.
+- **Offer:**
+  - Members do the **first 7 tasks**. We track progress and pick the best founder(s).
+  - The best founder gets a **scholarship** (free access beyond the first 7 tasks).
+  - He can **feature the top 3** as content for his group, if he wants.
+  - Everyone else gets a **discount (about 10%)**.
+- **Be upfront:** the group is small, and we want to test together whether it works.
+- **If the pilot works:** move to the bigger groups with Steps 1–3, in the order in [section 7](#7-community-list-and-outreach-assignments).
 
 ### Step 1: Invite to try (minimum benefit for every admin)
 
@@ -35,7 +52,7 @@ After the trial, ask the admin the [questions in section 5](#5-post-trial-questi
 
 ## 3. Making the "free 7 tasks" tier worth something
 
-Under the challenge plan, **everyone can do the first 7 tasks for free** once it is announced in early December. Without something extra, members of a basic partner group will not feel they get anything special. Pick one or more of these perks:
+Under the challenge plan, **everyone can do the first 7 tasks for free** once it is announced (originally planned for early December; to re-confirm against the two-stage launch). Without something extra, members of a basic partner group will not feel they get anything special. Pick one or more of these perks:
 
 - **Priority in selection:** teams from partner groups get priority when choosing who gets access up to task 20.
 - **More time:** a longer deadline for the 7 tasks, or access that continues after the challenge ends.
@@ -45,16 +62,19 @@ Under the challenge plan, **everyone can do the first 7 tasks for free** once it
 
 ## 4. Timeline
 
-| When | What |
-|---|---|
-| Nov 18–21 | Finalize the proposal, send trial invitations to admins |
-| Nov 21–27 | Onboarding, admins try the first 7 tasks |
-| **Nov 28** | Deadline for admin feedback, agree partnership tiers |
-| Nov 29 – early Dec | Send content kits and group links, prepare posts |
-| Early December | Challenge announced, admins post in their groups |
-| Mid-December | Select the top teams that get free access up to task 20 |
-| End of year | Final event; core partner admins judge or speak |
-| After the event | Send a results report to each group |
+Updated after the Nov 19 meeting. Dates after the first campaign depend on when it goes out and are still to be set.
+
+| When | Stage | What |
+|---|---|---|
+| Nov 23–27 | Internal launch | Bring in testers (free premium for 5–10 people), call PTIT students for feedback |
+| Wed Nov 25 | Light launch | First Miko teaser on the fanpage |
+| Late Nov – early Dec | Light launch | Our own first campaign: email, Facebook contacts, existing Miko sign-ups. **No admins yet.** |
+| In parallel | Prep | Pitch the pilot to Future Builders Việt Nam; prepare the admin trial for bigger groups |
+| ~3–4 weeks after the first campaign | Amplified launch | Run the pilot in Future Builders Việt Nam |
+| If the pilot works | Amplified launch | Steps 1–3 with the bigger groups, small to big (section 7) |
+| After each group's run | Wrap-up | Scholarship for the best founder, feature the top 3, results report to the group |
+
+> The challenge milestones from the Nov 16 meeting (announce in early December, select top teams mid-December, final event at end of year) need re-checking against this new order.
 
 ## 5. Post-trial questions
 
@@ -75,7 +95,8 @@ Under the challenge plan, **everyone can do the first 7 tasks for free** once it
 The person who knows the admin reaches out directly, by message or call, in their usual tone. No template needed. Just make sure the conversation covers:
 - An invitation to **try all 33 tasks, free, no strings attached**, with a quick 30-minute walkthrough.
 - If the admin likes it, then we discuss a partnership for the group (see section 2).
-- A feedback deadline of **Nov 28**, so we are ready for the early-December announcement.
+- A feedback deadline set to fit the amplified launch date (see [section 4](#4-timeline)).
+- Where it helps, share results from our own light launch (sign-ups, what founders built), so the admin sees Miko already works.
 
 If the connection is only indirect, ask the mutual contact to introduce you first, then message.
 
@@ -121,17 +142,19 @@ The first message must be **friendly, like one community member talking to anoth
 
 Source: [community group admin list, 2026-11-17](https://github.com/Dream-Lab-AI-JSC/miko-marketing/blob/main/60-output/02-miko/01-briefs/2026-11-17_list_community-group-admins.csv) in the Miko Marketing repo. See the original file for admin details and Facebook links.
 
+**Order (Nov 19): small to big.** The **Order** column shows the sequence agreed in the meeting. Groups without a number come after, once the first ones have worked.
+
 **How to fill in:** the **Warm contact** and **Owner** columns are left blank for the team.
 - If you know an admin (or know someone who does), put your name under Warm contact and take that group, reaching out directly as in [section 6.1](#61-with-a-warm-contact).
 - For groups where nobody has a connection, send a first message as in [section 6.2](#62-without-a-warm-contact).
 
-| # | Group | Members (Nov 17) | Lead admin | Suggested tier | Warm contact | Owner | Notes |
-|---|---|---|---|---|---|---|---|
-| 1 | [Build in Public VN](https://www.facebook.com/groups/1569314343856132) | 101,034 | Duy Nguyen | Core partner | | | Exactly Miko's first audience. Top priority. The admin is a content creator (~33k followers) with several products of their own; the group holds offline meetups. |
-| 2 | [Cộng đồng Vibe Coding - Việt Nam](https://www.facebook.com/groups/177509761233313) | 196,664 | Nguyễn Vũ Nam | Core partner | | | Builders using AI to make products; growing fast (+1,106/week). An older group that was renamed; the current admins took the role in Oct–Nov, so find out who actually decides. |
-| 3 | [FoundersUp - Đời Làm Chủ](https://www.facebook.com/groups/1577634563426167) | ~55.6k | Hoàng Lê | Core partner | | | Founders and business owners, more business than tech. The admin spoke at the Future Builders Meetup on Nov 7, so we may reach them through Unikorn. Ngọc Anh has joined the group. |
-| 4 | [Future Builders Việt Nam](https://www.facebook.com/groups/3890765007722677) (Unikorn) | 1,373 | Hải Nguyễn | Basic partner | | | Small but the right people (builders going from idea to MVP). Monthly meetups and a Zalo group. Could propose Miko appears at a meetup. |
-| 5 | [J2TEAM Community](https://www.facebook.com/groups/j2team.community) | ~800.3k | Mạnh Tuấn (Juno_okyo) | Basic partner | | | Very large but open-topic, mostly developers and readers. Partnerships go through the group's public email (see the original file). Read the group rules before posting. Ngọc Anh has joined the group. |
+| # | Order | Group | Members (Nov 17) | Lead admin | Suggested tier | Warm contact | Owner | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 4 | **1 (pilot)** | [Future Builders Việt Nam](https://www.facebook.com/groups/3890765007722677) (Unikorn) | 1,373 | Hải Nguyễn | Pilot (Step 0) | Ngọc Anh | Ngọc Anh | **Start here (Nov 19).** Small but the right people (builders going from idea to MVP; many have built but can't launch). Monthly meetups and a Zalo group. Contact met Michael at an event and has messaged Ngọc Anh; he gave feedback that Miko's onboarding questionnaire is too long. Offer: scholarship for the best founder + feature top 3 + ~10% discount. Ngọc Anh is in touch with the marketing side; confirm who decides. |
+| 3 | 2 | [FoundersUp - Đời Làm Chủ](https://www.facebook.com/groups/1577634563426167) | ~55.6k | Hoàng Lê | Core partner | | | Seen as a good fit on Nov 19: many business people without tech skills. The admin spoke at the Future Builders Meetup on Nov 7, so we may reach them through Unikorn after the pilot. Ngọc Anh has joined the group. |
+| 1 | 3 | [Build in Public VN](https://www.facebook.com/groups/1569314343856132) | 101,034 | Duy Nguyen | Core partner | | | Right audience, but **may be harder** (Nov 19): members already build and may feel they are ahead. Pitch: *"The mistakes you make over half a year, you could have fixed in the first month. Find something people really want."* The admin is a content creator (~33k followers) with several products of their own; the group holds offline meetups. |
+| 2 | | [Cộng đồng Vibe Coding - Việt Nam](https://www.facebook.com/groups/177509761233313) | 196,664 | Nguyễn Vũ Nam | Core partner | | | Builders using AI to make products; growing fast (+1,106/week). An older group that was renamed; the current admins took the role in Oct–Nov, so find out who actually decides. |
+| 5 | | [J2TEAM Community](https://www.facebook.com/groups/j2team.community) | ~800.3k | Mạnh Tuấn (Juno_okyo) | Basic partner | | | Very large but open-topic, mostly developers and readers. Partnerships go through the group's public email (see the original file). Read the group rules before posting. Ngọc Anh has joined the group. |
 
 **Notes on the list:**
 - **Two communities from the Nov 16 meeting are missing:** "Looking for Co-founder" (~33k, a good fit for the later co-founder matching phase) and the Codex community (Sơn and An at Joy Factory, owned by Michael). They should be added to the original file.
@@ -143,6 +166,7 @@ Source: [community group admin list, 2026-11-17](https://github.com/Dream-Lab-AI
 - **Offering cash or commission upfront.** Posts would look like ads. Save commission for the affiliate program later (20% off for buyers, 10% commission for referrers).
 - **"Course" messaging.** Stress **"build for real, ship a real product"** and the chance to join the venture builder.
 - **Overpromising.** Resources are focused on the challenge, so cap the number of task-20 seats and AMA sessions clearly from the start.
+- **Going to the big groups first.** Start small, learn, then scale (Nov 19 decision).
 
 ## 9. Open decisions
 
@@ -152,4 +176,7 @@ Source: [community group admin list, 2026-11-17](https://github.com/Dream-Lab-AI
 - [ ] Fill in the Warm contact and Owner columns in section 7
 - [ ] Add "Looking for Co-founder" and the Codex community to the original list
 - [ ] How to create a sign-up link per group to measure results
-- [ ] Challenge timeline (the meeting notes conflict between "end of year" and "mid-January")
+- [ ] Challenge timeline (the meeting notes conflict between "end of year" and "mid-January"), now also to fit the two-stage launch
+- [ ] Date of our first campaign, which sets when the amplified launch starts
+- [ ] Pilot details for Future Builders: how many scholarships, how we judge "best founder", the exact discount
+- [ ] What counts as "the pilot worked" before moving to the bigger groups
